@@ -9,7 +9,7 @@ My web development journey started when I created a website using PHP for my onl
 * 🌍 I'm based in ... Japan
 * 🖥️ My porfolio ... is currently under construction :(
 * ✉️ You can contact me ... on linkedin or discord!
-* 🧠 I'm learning ... data and environmental science
+* 🧠 I'm learning ... data, environmental science and GIS
 * 🤔 I’m looking for help with ... getting into environmental data science
 * 🤝 I'm open to ... collaborating on projects that make the world a better place
 * 💬 Ask me about ... Japan :)
