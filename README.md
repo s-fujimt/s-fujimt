@@ -1,21 +1,21 @@
 Hi 👋 My name is Sandra
 =======================
 
-Math BSc & Computer/Data Science Student 
+Currently doing my Data Science & Maths MSc 
 ------------------------------------------
 
-My web development journey started when I created a website using PHP for my online trading card game collection when I was 13, had computer science lessons from grade 8 to 13 and studied mathematics at university. After graduation, I left IT for 4 years, just to find myself back in web development, working at a Japanese web consulting company. I am currently open for work, collaborations and interesting conversations.
+My web development journey started when I created a website using PHP for my online trading card game collection when I was 13, had computer science lessons from grade 8 to 13 and studied mathematics at university. After graduation, I left IT for 4 years, just to find myself back in web development, working at a Japanese web consulting company. I am currently studying.
 
 * 🌍 I'm based in ... Germany
 * 🖥️ My porfolio ... is currently under construction :(
 * ✉️ You can contact me ... on linkedin or discord!
-* 🧠 I'm also learning ... data, environmental science and GIS
+* 🧠 I'm also learning ... environmental science and GIS
 * 🤔 I’m looking for help with ... getting into environmental data science
 * 🤝 I'm open to ... collaborating on projects that make the world a better place
 * 💬 Ask me about ... Japan :)
 
 
-### Skills
+### Things I have worked with before
 
 
 <p align="left">
